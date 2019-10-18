@@ -1,5 +1,5 @@
 
 <Version: 1.2>
-/audio/build.txt https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/build.txt
-/audio/sample_audio.ogg https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/Drums%20of%20Mordon.ogg
+/updates/change-log.txt https://github.com/Nixhaedra/phREV_Update/edit/master/change-log.txt
+/updates/sample_audio.ogg https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/Drums%20of%20Mordon.ogg
 <End of Version>

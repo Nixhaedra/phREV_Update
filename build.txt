@@ -1,0 +1,7 @@
+AMD Ryzen 5 3600x = 14k
+MSI B450 Tomahawk = 6.8k
+MSI RX580 8Gb OC = 12.8k
+Corsair Vengeance 2x8gb = 6.4k
+Corsair CX750M 750w = 5k
+Coolermaster Air Cooler = 3.2k
+PC Case = 3k

@@ -1,4 +1,4 @@
 
 <Version: 1.00>
-/audio/bgm/Drums of Mordon.ogg https://download2262.mediafire.com/xns2gln95mwg/1z6oovq95olwubk/Drums+of+Mordon.ogg
+/audio/bgm/Drums of Mordon.ogg 
 <End of Version>

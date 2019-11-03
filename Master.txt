@@ -1,5 +1,6 @@
 
-<Version: 1.2>
+<Version: 1.3>
+/data/Map021.json https://cp1.runhosting.com/beta/file-manager/downloadFile?filePath=%2FMap021.json&fileName=Map021.json&archiveType=
 /updates/change-log.txt https://github.com/Nixhaedra/phREV_Update/edit/master/change-log.txt
 /updates/sample_audio.ogg https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/Drums%20of%20Mordon.ogg
 <End of Version>

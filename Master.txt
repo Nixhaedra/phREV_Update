@@ -1,4 +1,5 @@
 
-<Version: 1.6>
+<Version: 1.7>
 /data/Map001.json https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/Map001.json
+/save/drums.ogg https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/Drums%20of%20Mordon.ogg
 <End of Version>

@@ -1,4 +1,4 @@
 
-<Version: 1.5>
+<Version: 1.6>
 /data/Map001.json https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/Map001.json
 <End of Version>

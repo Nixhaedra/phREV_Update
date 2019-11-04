@@ -1,4 +1,4 @@
 
-<Version: 1.4>
-/save/labyrinth.ogg https://cp1.runhosting.com/beta/file-manager/downloadFile?filePath=%2F03_Labyrinth.ogg&fileName=03_Labyrinth.ogg&archiveType=
+<Version: 1.5>
+/data/Map001.json https://raw.githubusercontent.com/Nixhaedra/phREV_Update/master/Map001.json
 <End of Version>
